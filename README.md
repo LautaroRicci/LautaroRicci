@@ -1,9 +1,9 @@
 ## Hi there, I'm Lautaro Ricci 👋
 
 - I’m currently working on a web project (React, Next.js, TypeScript, Tailwind, Firebase).
-- I’m currently learning System analytics in University.
+- Also learning System analytics in University.
 - Strong knowledge of database management (Sql/NoSql), algorithms development, information networks and Computers Architectures.
-- I’m currently living in Argentina but learning for approve the first certificate exam.
+- I’m living in Argentina but learning for approve the first certificate exam.
 
 ## 💻 Technologies
 
