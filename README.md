@@ -23,6 +23,7 @@
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript)](https://github.com/LautaroRicci)
 [![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://github.com/LautaroRicci)
 [![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=nextdotjs)](https://github.com/LautaroRicci)
+[![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)](https://github.com/LautaroRicci)
 
 </div>
 
@@ -34,38 +35,44 @@
 ### ⚙️ Back-end
 <div style="display: flex; gap: 6px; flex-wrap: wrap; justify-content: center;">
 
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/LautaroRicci)
+[![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://github.com/LautaroRicci)
+[![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java&logoColor=white)](https://github.com/LautaroRicci)
+[![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)](https://github.com/LautaroRicci)
 [![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat&logo=node.js&logoColor=white)](https://github.com/LautaroRicci)
 [![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)](https://github.com/LautaroRicci)
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)](https://github.com/LautaroRicci)
-[![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java&logoColor=white)](https://github.com/LautaroRicci)
 
 </div>
 
 </td>
 
-<!-- DATABASES -->
+<!-- DATABASES & INFRASTRUCTURE -->
 <td align="center" width="250" style="vertical-align: top; padding: 10px; border: 1px solid #333; border-radius: 10px;">
 
-### 🗄️ Databases
+### 🗄️ Databases & Infra
 <div style="display: flex; gap: 6px; flex-wrap: wrap; justify-content: center;">
 
-[![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=mariadb&logoColor=white)](https://github.com/LautaroRicci)
-[![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=postgresql&logoColor=white)](https://github.com/LautaroRicci)
-[![NoSQL](https://img.shields.io/badge/-NoSQL-47A248?style=flat&logo=mongodb&logoColor=white)](https://github.com/LautaroRicci)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)](https://github.com/LautaroRicci)
+[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://github.com/LautaroRicci)
+[![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)](https://github.com/LautaroRicci)
+[![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)](https://github.com/LautaroRicci)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://github.com/LautaroRicci)
 
 </div>
 
 </td>
 
-<!-- OS -->
+<!-- OS & TOOLS -->
 <td align="center" width="250" style="vertical-align: top; padding: 10px; border: 1px solid #333; border-radius: 10px;">
 
-### 🧩 OS
+### 🧩 OS & Tools
 <div style="display: flex; gap: 6px; flex-wrap: wrap; justify-content: center;">
 
 [![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://github.com/LautaroRicci)
 [![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)](https://github.com/LautaroRicci)
-[![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white)](https://github.com/LautaroRicci)
+[![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](https://github.com/LautaroRicci)
+[![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)](https://github.com/LautaroRicci)
 
 </div>
 
@@ -73,7 +80,3 @@
 
 </tr>
 </table>
-
-
-
-
