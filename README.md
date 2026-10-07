@@ -1,6 +1,6 @@
 ## Hi there, I'm Lautaro Ricci 👋
 
-- I’m currently working as a Software Developer at Servicios Rosario. My team and I are building **Conex**, an ISP management platform and georeferenced SaaS that handles OLT management, FreeRADIUS authentication, collections (similar to ISPCube), and real-time network infrastructure control.
+- I’m currently working as a Software Developer and Network Technician at Servicios Rosario. My team and I are building **Conex**, an ISP management platform and georeferenced SaaS that handles OLT management, FreeRADIUS authentication, collections (similar to ISPCube), and real-time network infrastructure control, built using **Python (FastAPI, SQLAlchemy, PySNMP), React, PostgreSQL, and Redis**.
 - I've also developed and deployed web applications like DATAGUARA and CYP (Contacto Y Placer) using **React, Next.js, TypeScript, Tailwind CSS, and Firebase**.
 - I'm in my final year of the **Analista Universitario en Sistemas** degree, while also expanding my knowledge in Data Science.
 - My technical stack includes strong foundations in backend development (Python, FastAPI, Java Spring Boot), database management (PostgreSQL, Redis, MySQL), and containerized environments (Docker), along with solid knowledge of computer architecture and information networks.
