@@ -1,9 +1,10 @@
 ## Hi there, I'm Lautaro Ricci 👋
 
-- I’m currently working on a web project (React, Next.js, TypeScript, Tailwind, Firebase).
-- Also learning System analytics in University.
-- Strong knowledge of database management (Sql/NoSql), algorithms development, information networks and Computers Architectures.
-- I’m living in Argentina but learning for approve the first certificate exam.
+- I’m currently working as a Software Developer at Servicios Rosario. My team and I are building **Conex**, an ISP management platform and georeferenced SaaS that handles OLT management, FreeRADIUS authentication, collections (similar to ISPCube), and real-time network infrastructure control.
+- I've also developed and deployed web applications like DATAGUARA and CYP (Contacto Y Placer) using **React, Next.js, TypeScript, Tailwind CSS, and Firebase**.
+- I'm in my final year of the **Analista Universitario en Sistemas** degree, while also expanding my knowledge in Data Science.
+- My technical stack includes strong foundations in backend development (Python, FastAPI, Java Spring Boot), database management (PostgreSQL, Redis, MySQL), and containerized environments (Docker), along with solid knowledge of computer architecture and information networks.
+- I'm based in Rosario, Argentina. I have a solid working proficiency in English and I'm currently preparing for the Cambridge B2 First certification exam.
 
 ## 💻 Technologies
 
